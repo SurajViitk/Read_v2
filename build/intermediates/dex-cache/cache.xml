@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/suraj/Desktop/ANDROBOT2/read/Android-Read/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/suraj/Desktop/ANDROBOT2/read/Android-Read/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8187f4cb14ad9b23fc1810866f57cc33891998a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suraj/Desktop/ANDROBOT2/read/Android-Read/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="514b44a061eb0b12cb42972a52e096f7be4093d4">
+        <dex dex="/home/suraj/Desktop/ANDROBOT2/read/Android-Read/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0db4936dfa29447fc824a2228c5aa0bc30a40e6d/classes.dex" />
+    </item>
+
+</items>
